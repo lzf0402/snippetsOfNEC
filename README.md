@@ -1,4 +1,6 @@
 snippetsOfNEC
 =============
 
-The CSS snippets of NEC for sublime text editor
+本着一人分享、造福众码农的无私精神，把咱大网易大名鼎鼎的NEC（什么？你不知道NEC，你来，我保证不打死你！还不赶紧猛戳xxx）的模块、元件，转成了一个MCSS版本，请叫我雷锋~
+
+continue...
