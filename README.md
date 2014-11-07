@@ -7,17 +7,17 @@ snippetsOfNEC
 
 **1. Sublime text ——> tools ——> New Snippet**
 
-![](https://raw.githubusercontent.com/lzf0402/snippetsOfNEC/master/show1.png)
+![](https://raw.githubusercontent.com/lzf0402/snippetsOfNEC/master/imgs/show1.png)
 
 新建一个Snippet，保存成`.sublime-snippet`后缀的文件，Sublime Text默认会保存到`C:\Users\yourname\AppData\Roaming\Sublime Text 2\Packages\User`此目录下。当然你也可以在此目录下新建文件夹，把代码片段进行分类，比如可以把css和html的代码片段分别放到对应的目录，如下图：
 
-![](https://raw.githubusercontent.com/lzf0402/snippetsOfNEC/master/show2.png)
+![](https://raw.githubusercontent.com/lzf0402/snippetsOfNEC/master/imgs/show2.png)
 
 
 **2. 修改snippet文件**
 
 把你自定义的代码片段放到合适的区域，并指定一个触发键（tabTrigger）和片段可以触发的文件范围（scope），也可以指定描述文本，如下：
-![](https://raw.githubusercontent.com/lzf0402/snippetsOfNEC/master/show5.png)
+![](https://raw.githubusercontent.com/lzf0402/snippetsOfNEC/master/imgs/show5.png)
 
 
     <snippet>
@@ -35,7 +35,7 @@ snippetsOfNEC
 
 没错，上面的代码演示了用 `mysinppet`这个触发键在css文件里，能快速生成一个名为demo的类选择器。赶紧新建一个css文件试试吧。当你在css文件里按下"my"两个字符时，神奇的事情发生了，下方出现了代码提示框，选中跟你匹配的"mysinppet"，按下回车，刚刚设置的代码片段就自动生成了，是不是很惊喜呀。如下图：
 
-![](https://raw.githubusercontent.com/lzf0402/snippetsOfNEC/master/show3.png)
+![](https://raw.githubusercontent.com/lzf0402/snippetsOfNEC/master/imgs/show3.png)
 
 **3.注意事项**
 
@@ -44,21 +44,23 @@ snippetsOfNEC
 **可通过修改配置文件开启代码自动提示功能**：
 在菜单栏中选择Preferences >> Settings - Default,打开该文件搜索找到"auto_complete_selector",将该行注释掉，如下图所示：
 
-![](https://raw.githubusercontent.com/lzf0402/snippetsOfNEC/master/show4.png)
+![](https://raw.githubusercontent.com/lzf0402/snippetsOfNEC/master/imgs/show4.png)
 
 还不赶紧把你常用的各类代码（CSS、HTML、JS等）整理成代码片段，解放你的“Ctrl+C/V”。
 
 **3.snippet Of NEC**
 
 本着一人分享、造福众码农的无私精神，把咱大网易大名鼎鼎的NEC（什么？你不知道NEC，你来，我保证不打死你！还不赶紧猛戳[NEC官网](http://nec.netease.com/)）的框架、布局、模块、元件代码做成了snippet，供前端攻城狮们下载（[下载请猛搓](https://raw.githubusercontent.com/lzf0402/snippetsOfNEC/master/NEC-snippet.rar)），请叫我雷锋^_^~
-
-![](https://raw.githubusercontent.com/lzf0402/snippetsOfNEC/master/show6.png)
-![](https://raw.githubusercontent.com/lzf0402/snippetsOfNEC/master/show7.png)
-![](https://raw.githubusercontent.com/lzf0402/snippetsOfNEC/master/show8.png)
+ 
+![](https://raw.githubusercontent.com/lzf0402/snippetsOfNEC/master/imgs/show6.png)
+![](https://raw.githubusercontent.com/lzf0402/snippetsOfNEC/master/imgs/show7.png)
+![](https://raw.githubusercontent.com/lzf0402/snippetsOfNEC/master/imgs/show8.png)
 
 把下载的NEC版的代码片段
 在Sublime Text编辑器的菜单栏中选择 Preferences >> Browse Packages...，在打开的Packages目录下找到User目录，将你下载的NEC版的代码片段解压在此目录下，就大功告成啦~
 回到编辑器，新建一个html文件，当你在敲下 `NEC-html`触发键后生成了一整片html模板代码，有没有小小激动一下~
+
+![](https://raw.githubusercontent.com/lzf0402/snippetsOfNEC/master/imgs/show10.png)
 
 另外，随着CSS预处理器在项目中的广泛实践应用，以上的NEC版代码片段里也包含了模块和元件的MCSS版。说到[MCSS](https://github.com/leeluolee/mcss)，目前已在多个产品中使用，鉴定好用；自从用了mcss，妈妈再也不用担心我写css慢啦~
 
