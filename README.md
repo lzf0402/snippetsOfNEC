@@ -44,7 +44,7 @@ snippetsOfNEC
 **可通过修改配置文件开启代码自动提示功能**：
 在菜单栏中选择Preferences >> Settings - Default,打开该文件搜索找到"auto_complete_selector",将该行注释掉，如下图所示：
 
-![](https://raw.githubusercontent.com/lzf0402/snippetsOfNEC/master/imgs/show4.png)
+![](https://raw.githubusercontent.com/lzf0402/snippetsOfNEC/master/imgs/tip.jpg)
 
 还不赶紧把你常用的各类代码（CSS、HTML、JS等）整理成代码片段，解放你的“Ctrl+C/V”。
 
@@ -52,6 +52,7 @@ snippetsOfNEC
 
 本着一人分享、造福众码农的无私精神，把咱大网易大名鼎鼎的NEC（什么？你不知道NEC，你来，我保证不打死你！还不赶紧猛戳[NEC官网](http://nec.netease.com/)）的框架、布局、模块、元件代码做成了snippet，供前端攻城狮们下载（[下载请猛搓](https://raw.githubusercontent.com/lzf0402/snippetsOfNEC/master/NEC-snippet.rar)），请叫我雷锋^_^~
  
+![](https://raw.githubusercontent.com/lzf0402/snippetsOfNEC/master/imgs/show9.png)
 ![](https://raw.githubusercontent.com/lzf0402/snippetsOfNEC/master/imgs/show6.png)
 ![](https://raw.githubusercontent.com/lzf0402/snippetsOfNEC/master/imgs/show7.png)
 ![](https://raw.githubusercontent.com/lzf0402/snippetsOfNEC/master/imgs/show8.png)
